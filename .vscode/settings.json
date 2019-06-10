@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.cmake": "makefile",
+        "*.makefile": "makefile",
+        "*.geojson": "json",
+        "Makeconfig": "makefile",
+        "*.txt": "automake",
+        "*.mak": "makefile",
+        "type_traits": "cpp"
+    }
+}
